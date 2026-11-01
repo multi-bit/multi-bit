@@ -4,15 +4,17 @@
 
 I'm currently **open to full-time roles** in a product or mobile engineering team. Pune, India · open to remote and relocation.
 
+🌐 **Portfolio:** [multi-bit.github.io](https://multi-bit.github.io/) (fly through my products as a 3D galaxy) · [simple version](https://multi-bit.github.io/v2/)
+
 ---
 
 ### What I've built
 
 | Product | What it is | Stack | Traction |
 | --- | --- | --- | --- |
-| **[Soozy](https://soozy.app/)** · [iOS](https://apps.apple.com/in/app/soozy/id6748237188) · [Android](https://play.google.com/store/apps/details?id=in.soozy.android) | Community and event platform with real-time group chat and offline sync | SwiftUI, Java, PHP, PostgreSQL, AWS, Firebase | 5,000+ web users, then 1,000+ app users |
-| **[Feast](https://play.google.com/store/apps/details?id=com.feast.beta)** | B2B ordering marketplace for restaurants and suppliers (customer and partner apps) | Java (Android), web | 1,000+ orders through organic search; 100+ delivered |
-| **[The Wedding Link](https://theweddinglink.co/)** | Wedding websites for Indian couples: invitations, RSVP, schedules, private galleries | PHP, PostgreSQL, WhatsApp Business API, S3/R2, DigitalOcean | 1,000+ sign-ups, paying customers |
+| **[Soozy](https://soozy.app/)** · [iOS](https://apps.apple.com/in/app/soozy/id6748237188) · [Android](https://play.google.com/store/apps/details?id=in.soozy.android) | Community and event platform with real-time group chat and offline sync | SwiftUI, Java, PHP, MySQL, AWS, Firebase | 5,000+ web users and 1,400+ events, then 1,000+ app users |
+| **[Feast](https://play.google.com/store/apps/details?id=com.feast.beta)** | B2B ordering marketplace for restaurants and suppliers (customer and partner apps) | Java (Android), PHP, MariaDB | 12,000+ registered users and 1,000+ orders through organic search |
+| **[The Wedding Link](https://theweddinglink.co/)** | Wedding websites for Indian couples: invitations, RSVP, schedules, private galleries | PHP, PostgreSQL, WhatsApp Business API, S3/R2, DigitalOcean | 1,000+ wedding websites created, paying customers |
 | **[Pokkee](http://getpokkee.com/)** · [Business app](https://play.google.com/store/apps/details?id=com.pokkee.business) | Loyalty points for local shops, with customer and business apps | SwiftUI, Java, PHP, SQL | Launched Oct 2026 |
 | **[Fit9](https://fit9.in/)** | Gym management platform | PHP, PostgreSQL | Live with its first gym |
 
@@ -35,4 +37,4 @@ Most product code is private because these are commercial products. I'm happy to
 
 ### Contact
 
-📧 [the.multibit@gmail.com](mailto:the.multibit@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/multibit/)
+🌐 [multi-bit.github.io](https://multi-bit.github.io/) · 📧 [the.multibit@gmail.com](mailto:the.multibit@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/multibit/)
